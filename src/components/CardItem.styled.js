@@ -12,7 +12,7 @@ export const CardThumb = styled.li`
   background-image: url(${logo}), url(${background}),
     linear-gradient(114.99deg, #471ca9 -0.99%, #5736a3 54.28%, #4b2a99 78.99%);
   background-repeat: no-repeat, no-repeat, no-repeat;
-  background-position: 20px 20px, 28px 36px, center;
+  background-position: 20px 20px, 36px 28px, center;
   background-size: _, _, cover;
 `;
 
@@ -92,7 +92,7 @@ export const FeatureItem = styled.li`
 export const ButtonStyled = styled.button`
   width: 196px;
   height: 50px;
-  margin-top: 40px;
+  margin-top: 26px;
   padding: 14px 28px;
   background: #ebd8ff;
   box-shadow: 0px 3.43693px 3.43693px rgba(0, 0, 0, 0.25);
