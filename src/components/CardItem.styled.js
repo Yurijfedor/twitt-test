@@ -2,10 +2,11 @@ import styled from "styled-components";
 import logo from "../images/logo.svg";
 import background from "../images/picture2 1.png";
 
-export const CardThumb = styled.div`
+export const CardThumb = styled.li`
   position: relative;
   width: 380px;
   height: 460px;
+  margin: auto;
   box-shadow: -2.5777px 6.87386px 20.6216px rgba(0, 0, 0, 0.23);
   border-radius: 20px;
   background-image: url(${logo}), url(${background}),
@@ -63,6 +64,7 @@ export const Avatar = styled.div`
   height: 62px;
   border-radius: 50%;
   background: #5736a3;
+  overflow: hidden;
 `;
 
 export const CardContent = styled.div`

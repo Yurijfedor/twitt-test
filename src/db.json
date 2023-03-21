@@ -1,0 +1,74 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "user": "Elon Reeve Musk",
+      "tweets": 777,
+      "followers": 13287,
+      "avatar": "https://api.dicebear.com/5.x/avataaars/svg?seed=Felix"
+    },
+    {
+      "id": 2,
+      "user": "Helen Green",
+      "tweets": 499,
+      "followers": 10798,
+      "avatar": "https://api.dicebear.com/5.x/avataaars/svg?seed=Helen"
+    },
+    {
+      "id": 3,
+      "user": "William Smith",
+      "tweets": 354,
+      "followers": 5678,
+      "avatar": "https://api.dicebear.com/5.x/avataaars/svg?seed=William"
+    },
+    {
+      "id": 4,
+      "user": "David Cook",
+      "tweets": 332,
+      "followers": 4851,
+      "avatar": "https://api.dicebear.com/5.x/avataaars/svg?seed=David"
+    },
+    {
+      "id": 5,
+      "user": "Rick Sanchez",
+      "tweets": 234,
+      "followers": 4358,
+      "avatar": "https://api.dicebear.com/5.x/avataaars/svg?seed=Rick"
+    },
+    {
+      "id": 6,
+      "user": "Barry Miller",
+      "tweets": 228,
+      "followers": 4123,
+      "avatar": "https://api.dicebear.com/5.x/avataaars/svg?seed=Barry"
+    },
+    {
+      "id": 7,
+      "user": "Calvin Thompson",
+      "tweets": 209,
+      "followers": 4058,
+      "avatar": "https://api.dicebear.com/5.x/avataaars/svg?seed=Calvin"
+    },
+    {
+      "id": 8,
+      "user": "Jennifer Lopez",
+      "tweets": 1357,
+      "followers": 132598,
+      "avatar": "https://api.dicebear.com/5.x/avataaars/svg?seed=Jennifer"
+    },
+    {
+      "id": 9,
+      "user": "Jennifer Enniston",
+      "tweets": 894,
+      "followers": 1565323,
+      "avatar": "https://api.dicebear.com/5.x/avataaars/svg?seed=Jennifer"
+    },
+    {
+      "id": 10,
+      "user": "David Schwimmer",
+      "tweets": 567,
+      "followers": 2098587,
+      "avatar": "https://api.dicebear.com/5.x/avataaars/svg?seed=David"
+    }
+  ]
+}

@@ -1,7 +1,7 @@
-import { CardItem } from "./components/CardItem";
+import { CardsList } from "./components/CardsList";
 
 function App() {
-  return <CardItem />;
+  return <CardsList />;
 }
 
 export default App;
